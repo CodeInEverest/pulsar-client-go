@@ -29,9 +29,9 @@ import (
 	"path"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal/auth"
 
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/log"
 
 	"github.com/pkg/errors"
 )

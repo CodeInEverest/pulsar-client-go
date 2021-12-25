@@ -20,13 +20,13 @@ package pulsar
 import (
 	"testing"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/compression"
-	"github.com/apache/pulsar-client-go/pulsar/internal/crypto"
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal/compression"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal/crypto"
+	pb "github.com/CodeInEverest/pulsar-client-go/pulsar/internal/pulsar_proto"
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal"
 )
 
 func TestSingleMessageIDNoAckTracker(t *testing.T) {

@@ -26,12 +26,12 @@ import (
 
 	"github.com/gogo/protobuf/proto"
 
-	"github.com/apache/pulsar-client-go/pulsar/crypto"
-	"github.com/apache/pulsar-client-go/pulsar/internal"
-	"github.com/apache/pulsar-client-go/pulsar/internal/compression"
-	cryptointernal "github.com/apache/pulsar-client-go/pulsar/internal/crypto"
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/crypto"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal/compression"
+	cryptointernal "github.com/CodeInEverest/pulsar-client-go/pulsar/internal/crypto"
+	pb "github.com/CodeInEverest/pulsar-client-go/pulsar/internal/pulsar_proto"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/log"
 
 	"go.uber.org/atomic"
 )

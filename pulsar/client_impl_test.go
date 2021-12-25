@@ -28,9 +28,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
+	"github.com/CodeInEverest/pulsar-client-go/pulsar/internal/auth"
 	"github.com/stretchr/testify/assert"
 )
 
