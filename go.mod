@@ -26,4 +26,4 @@ require (
 	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602
 )
 
-replace github.com/apache/pulsar-client-go/oauth2 => ./oauth2
+replace github.com/CodeInEverest/pulsar-client-go/oauth2 => ./oauth2
