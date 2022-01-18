@@ -25,10 +25,10 @@ import (
 
 	xoauth2 "golang.org/x/oauth2"
 
-	"github.com/CodeInEverest/pulsar-client-go/oauth2"
-	"github.com/CodeInEverest/pulsar-client-go/oauth2/cache"
-	"github.com/CodeInEverest/pulsar-client-go/oauth2/clock"
-	"github.com/CodeInEverest/pulsar-client-go/oauth2/store"
+	"github.com/CodeInEverest/pulsar-client-go-oauth2"
+	"github.com/CodeInEverest/pulsar-client-go-oauth2/cache"
+	"github.com/CodeInEverest/pulsar-client-go-oauth2/clock"
+	"github.com/CodeInEverest/pulsar-client-go-oauth2/store"
 )
 
 const (
